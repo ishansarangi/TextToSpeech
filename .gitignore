@@ -1,0 +1,10 @@
+.DS_Store
+*/TexToSpeech.xcodeproj/xcuserdata/
+*/TexToSpeech.xcworkspace/xcuserdata/
+*/TexToSpeech.xcodeproj/project.xcworkspace/*
+*.pyc
+*.zip
+*.gitmodules
+build_path/
+build_products/
+upload_dsym_results
